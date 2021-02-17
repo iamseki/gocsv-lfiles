@@ -7,3 +7,10 @@
   ```
       go run *.go
   ```
+
+- Exemplo de saída:
+
+  ```
+      Concatening csv file concurrently..
+      Took:  1.439545609s
+  ```
